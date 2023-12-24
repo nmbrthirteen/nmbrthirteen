@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @nmbrthirteen
-- 👀 I’m interested in cross-platform development
-- 🌱 Practicing react
+
